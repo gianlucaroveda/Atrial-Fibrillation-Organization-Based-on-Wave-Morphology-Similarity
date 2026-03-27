@@ -8,6 +8,7 @@ Source: https://physionet.org/content/iafdb/1.0.0/
 
 2. SETUP 
 * Download files from PhysioNet.
+* I have already included 2 signal in the "CODE" directory
 * Place them in the same folder as the script.
 
 3. HOW TO RUN 
